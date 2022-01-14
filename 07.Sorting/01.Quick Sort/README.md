@@ -1,3 +1,4 @@
+```c
 #include<stdio.h>
 void quicksort(int number[25],int first,int last){
    int i, j, pivot, temp;
@@ -50,3 +51,4 @@ int main(){
 
    return 0;
 }
+```
